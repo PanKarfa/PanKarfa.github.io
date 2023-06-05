@@ -6,6 +6,5 @@ excerpt: 'This article describes a novel mobile manipulator robot designed to wo
 date: 2018-09-08
 venue: 'CLAWAR 2018'
 paperurl: 'https://core.ac.uk/download/pdf/234021207.pdf'
-citation: 'Gmerek, Artur & Plastropoulos, A & Collins, Peter & Kimball, Matthew & Wheatley, A & Liu, Jianwei & Karfakis, Panagiotis & Shah, Kiran & Carroll, J & Virk, Gurvinder & Sain, Amit. (2018). A Novel Holonomic Robot Manipulator for Construction Sites. In 21st International Conference on Climbing and
-Walking Robots and the Support Technologies for Mobile Machines Robotics Transforming the Future, CLAWAR, Panama City, Panama, 2018,9. ' 
+citation: 'Gmerek, Artur & Plastropoulos, A & Collins, Peter & Kimball, Matthew & Wheatley, A & Liu, Jianwei & Karfakis, Panagiotis & Shah, Kiran & Carroll, J & Virk, Gurvinder & Sain, Amit. (2018). A Novel Holonomic Robot Manipulator for Construction Sites. In 21st International Conference on Climbing and Walking Robots and the Support Technologies for Mobile Machines Robotics Transforming the Future, Panama City, Panama, 2018,9.' 
 ---
