@@ -1,0 +1,10 @@
+---
+title: "NR5G-SAM: A SLAM framework for Field Robotics Based on 5G New Radio"
+collection: publications
+permalink: /publication/2023-06-05-NR5G-SAM-A-SLAM-framework-for-Field-Robotics-Based-on-5G-New-Radio 
+excerpt: 'Robot localization is a crucial task in robotic systems and is a pre-requisite for navigation. In outdoor environments, Global Navigation Satellite Systems (GNSS) have aided towards this direction, alongside laser and visual sensing. Despite their application in the field, GNSS suffers from limited availability in dense urban and rural environments. Light Detection and Ranging (LiDAR), inertial and visual methods are also prone to drift and can be susceptible to outliers due to environmental changes and illumination conditions. In this work, we propose a cellular Simultaneous Localization and Mapping (SLAM) framework based on 5G New Radio (NR) signals and inertial measurements for mobile robot localization with several gNodeB stations. The method outputs the pose of the robot along with a radio signal map based on the Received Signal Strength Indicator (RSSI) measurements for correction purposes. We then perform benchmarking against LiDAR-Inertial Odometry Smoothing and Mapping (LIO-SAM), a state-of-the-art LiDAR SLAM method, comparing performance via a simulator ground truth reference. Two experimental setups are presented and discussed using the sub-6 GHz and mmWave frequency bands for communication, while the transmission is based on down-link (DL) signals. Our results show that 5G positioning can be utilized for radio SLAM, providing increased robustness in outdoor environments and demonstrating its potential to assist in robot localization, as an additional absolute source of information when LiDAR methods fail and GNSS data is unreliable.'
+date: 2023-06-05
+venue: 'MDPI Sensors Journal'
+paperurl: 'https://www.mdpi.com/1424-8220/23/11/5354'
+citation: 'Karfakis, Panagiotis T., Micael S. Couceiro, and David Portugal. 2023. "NR5G-SAM: A SLAM Framework for Field Robot Applications Based on 5G New Radio" Sensors 23, no. 11: 5354.'
+---
