@@ -1,6 +1,6 @@
 ---
 title: "iFROG project"
-excerpt: "Short description of portfolio item number 1<br/>[<img src="https://www.youtube.com/watch?v=1KYhJjmk5II">](https://www.youtube.com/watch?v=1KYhJjmk5II)
+excerpt: "Short description of portfolio item number 1<br/>[Link to project video](https://www.youtube.com/watch?v=1KYhJjmk5II)
 collection: portfolio
 ---
 
