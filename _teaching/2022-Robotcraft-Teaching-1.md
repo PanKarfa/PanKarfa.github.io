@@ -7,8 +7,7 @@ venue: "Ingeniarius Ltd"
 date: 2022-07-01
 location: "Alfena, Portugal"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught the "Introduction to Robot Programming" and assisted in the finals of the competition.
 
 Heading 1
 ======
