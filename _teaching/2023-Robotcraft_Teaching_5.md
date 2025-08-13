@@ -8,7 +8,7 @@ date: 2023-08-05
 location: "Alfena, Portugal"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught the "Introduction to Robot Programming" to university level students. 
 
 Heading 1
 ======
