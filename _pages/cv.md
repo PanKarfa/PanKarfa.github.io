@@ -17,7 +17,7 @@ Education
 ======
 * B.S. in Electronic Computer Systems, Piraeus University of Applied Sciences, 2018, Greece
 * M.S. in Robotics, Cranfield University, 2021, United Kingdom
-* Ph.D in Robotics and Automation, University of Coimbra, 2024, Portugal (expected)
+* Ph.D in Robotics and Automation, University of Coimbra, 2025, Portugal 
 
 Publications
 ======
